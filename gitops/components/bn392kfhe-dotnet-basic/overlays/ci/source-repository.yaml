@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bn392kfhe-dotnet-basic-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/bn392kfhe-dotnet-basic
